@@ -1,0 +1,44 @@
+[
+  {
+    "name": "create",
+    "path": "/create",
+    "component": "/var/www/html/CarUi/pages/create.vue",
+    "chunkName": "pages/create",
+    "_name": "_64687f1e"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/var/www/html/CarUi/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_c5f98d96"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/var/www/html/CarUi/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_727da9f8"
+  },
+  {
+    "name": "productList",
+    "path": "/productList",
+    "component": "/var/www/html/CarUi/pages/productList.vue",
+    "chunkName": "pages/productList",
+    "_name": "_4460ad88"
+  },
+  {
+    "name": "storeedit",
+    "path": "/storeedit",
+    "component": "/var/www/html/CarUi/pages/storeedit.vue",
+    "chunkName": "pages/storeedit",
+    "_name": "_156c7f86"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/var/www/html/CarUi/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_05ccf026"
+  }
+]
